@@ -1,3 +1,9 @@
+python-systemd (235-1+pexip24u1) pexip; urgency=medium
+
+  * Prepare Pexip packaging
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Wed, 06 Mar 2024 11:34:48 +0000
+
 python-systemd (235-1) unstable; urgency=medium
 
   * New upstream version 235

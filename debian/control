@@ -1,8 +1,9 @@
 Source: python-systemd
 Section: python
 Priority: optional
-Maintainer: Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>
-Uploaders: Michael Biebl <biebl@debian.org>,
+Maintainer: Pexip AS <packaging@pexip.com>
+XSBC-Pexip-Original-Maintainer: Debian systemd Maintainers <pkg-systemd-maintainers@lists.alioth.debian.org>
+XSBC-Pexip-Original-Uploaders: Michael Biebl <biebl@debian.org>,
            Martin Pitt <mpitt@debian.org>
 Standards-Version: 4.6.1
 Rules-Requires-Root: no
@@ -15,6 +16,7 @@ Build-Depends: debhelper-compat (= 13),
                pkg-config,
                python3-all-dev,
                python3-setuptools,
+XS-Pexip-Upstream: http://deb.debian.org/debian/ bookworm
 
 Package: python3-systemd
 Section: python
