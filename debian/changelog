@@ -1,3 +1,9 @@
+python-systemd (235-1+pexip24u2) pexip; urgency=medium
+
+  * Rebuild for move to main
+
+ -- Mark Hymers <mark.hymers@pexip.com>  Tue, 18 Jun 2024 11:56:39 +0100
+
 python-systemd (235-1+pexip24u1) pexip; urgency=medium
 
   * Prepare Pexip packaging
